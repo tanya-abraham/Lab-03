@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
-author: "Team Name: Fiona Reji, Jessica Crocker, Tanya Abraham"
+author: "Team Name: Fiona reji, Jessica Crocker, Tanya Abraham"
 date: "`r Sys.Date()`"
 output: html_document
 ---
